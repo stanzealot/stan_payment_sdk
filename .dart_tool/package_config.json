@@ -242,13 +242,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "my_sdk",
+      "name": "stan_payment_sdk",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-12-16T14:39:12.761181Z",
+  "generated": "2024-12-16T14:55:41.033768Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///Users/stanleyomeje/tools/flutter",

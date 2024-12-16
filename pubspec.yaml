@@ -1,8 +1,8 @@
-name: my_sdk
+name: stan_payment_sdk
 description: "A Flutter SDK to handle transactions with Payment API"
 version: 0.0.1
 author: stanzealot
-homepage: https://github.com/stanzealot/my_sdk
+homepage: https://github.com/stanzealot/stan_payment_sdk
 
 environment:
   sdk: ">=3.4.1 <4.0.0"
